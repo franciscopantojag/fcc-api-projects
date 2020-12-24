@@ -17,5 +17,5 @@ $ npm i
 Start the server:
 
 ```sh
-$ npm run dev
+$ npm start
 ```
